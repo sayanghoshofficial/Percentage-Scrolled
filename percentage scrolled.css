@@ -1,0 +1,28 @@
+.para{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.image-gallery{
+    color: rgb(7, 7, 100);
+    text-align: center;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#scrollPercentLabel{
+    position: fixed;
+    /* margin-left: 55%;
+    margin-top: -3%; */
+    top: 10px;
+    right: 10px;
+    border: 0px solid white;
+    box-shadow: -2px 1px 8px 1px;
+    border-radius: 18px;
+    width: 140px;
+    text-align: center;
+    color: blue;
+    font-size: large;
+}
